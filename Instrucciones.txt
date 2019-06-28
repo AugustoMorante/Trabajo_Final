@@ -1,0 +1,15 @@
+Instrucciones 
+Video Máximo 7 minutos, solo incluir la pantalla y su voz.
+
+• Mostrar la función que acumula las libras
+• Función que atrapa los peces
+• Muestre la función Tiburón se coma al pez
+
+• Función que carga los tiburones por cada nivel
+
+• Gane rápido los tres niveles (hacer las modificaciones necesarias)
+
+
+No estan presentes en el codigo
+• Muestra la función de Menú                     		X
+• Muestre que cuando pierde se reinicie el juego 		X
